@@ -1,0 +1,12 @@
+/* -------------------------------------------------------------- 
+   
+   ie7.css
+   for Internet Explorer 7
+   
+-------------------------------------------------------------- */
+
+body #nav li ul li {margin-left:-15px !important;}
+body #nav li ul a, body #nav li.on ul a {min-width:130px;}
+.section, .clear { display: inline-block; }
+#footer .sitenav {padding-bottom:1.5em;}
+#footer #words {font-size:11px;}
